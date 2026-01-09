@@ -1,0 +1,7 @@
+# This project uses only Python standard library
+# No external dependencies required
+
+# If you want to extend this project, you might consider:
+# numpy>=1.21.0          # For more efficient vector operations
+# scikit-learn>=1.0.0    # For advanced similarity metrics
+# streamlit>=1.0.0       # For a web interface
